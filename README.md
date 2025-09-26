@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [ajaytamang3.com.np](ajaytamang3.com.np)
 
-- 💬 Ask me about **anything related to Javascript/Typescript or React/Express/node**
+- 💬 Ask me about **anything related to js backed and pentesting**
 
 - 📫 How to reach me **ajaytamang4145@gmail.com**
 
