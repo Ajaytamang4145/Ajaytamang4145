@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Tamang</h1>
-<h3 align="center">A passionate MERN stack developer from Nepal</h3>
+<h3 align="center">Backend Developer | Security Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaytamang4145&label=Profile%20views&color=0e75b6&style=flat" alt="ajaytamang4145" /> </p>
 
