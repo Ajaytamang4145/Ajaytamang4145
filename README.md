@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **aws deployment**
+- 🌱 I’m currently learning **To write a Secure code**
 
 - 👨‍💻 All of my projects are available at [ajaytamang3.com.np](ajaytamang3.com.np)
 
