@@ -22,6 +22,3 @@
 <a href="https://discord.gg/ajaytamang0068" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ajaytamang0068" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaytamang4145&show_icons=true&locale=en&layout=compact" alt="ajaytamang4145" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaytamang4145&show_icons=true&locale=en" alt="ajaytamang4145" /></p>
