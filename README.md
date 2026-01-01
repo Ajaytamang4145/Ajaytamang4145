@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **something cool**
 
-- 🌱 I’m currently learning **To write a Secure code**
+- 🌱 I’m currently learning **to write a Secure code**
 
 - 👨‍💻 All of my projects are available at [ajaytamang3.com.np](ajaytamang3.com.np)
 
-- 💬 Ask me about **anything related to js backed and pentesting**
+- 💬 Ask me about **anything related to backend development**
 
 - 📫 How to reach me **ajaytamang4145@gmail.com**
 
